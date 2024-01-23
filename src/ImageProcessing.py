@@ -58,7 +58,7 @@ class ImageProcessing(BoxLayout):
             foundObj, totalObj, objs = self.contorns(enphatizatedObjects, 20)
 
         self.add_image_widget(enphatizatedObjects, "Imagem enfatizada2")
-        self.add_image_widget(objs, f"Imagem contornada: TOTAL: {totalObj}; Encontrados: {foundObj}")
+        self.add_image_widget(objs, f"Imagem contornada: Objetos encontrados: {foundObj}")
 
     def emphasize_large_objects(self, image, thresh):
         gray = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
