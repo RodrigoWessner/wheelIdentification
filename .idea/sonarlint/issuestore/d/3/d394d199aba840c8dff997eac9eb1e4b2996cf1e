@@ -1,0 +1,11 @@
+
+Hpython:S1066‚"/Merge this if statement with the enclosing one.(…ü¦¥
+Hpython:S1066„"/Merge this if statement with the enclosing one.(˜‘º
+Npython:S11723"1Remove the unused function parameter "exception".(Ÿê´¾øÿÿÿÿ
+mpython:S3776ù"TRefactor this function to reduce its Cognitive Complexity from 32 to the 15 allowed.(›òÀ¢
+Apython:S108İ")Either remove or fill this block of code.(ã‘Û¾
+Apython:S108ì")Either remove or fill this block of code.(ã‘Û¾
+xpython:S1542ã"ZRename function "_runTouchApp_prepare" to match the regular expression ^[a-z_][a-z0-9_]*$.(ßòËÔşÿÿÿÿ
+opython:S1542œ"QRename function "runTouchApp" to match the regular expression ^[a-z_][a-z0-9_]*$.(ş˜Üùÿÿÿÿ
+ppython:S1542Ã"WRename function "async_runTouchApp" to match the regular expression ^[a-z_][a-z0-9_]*$.(ó·’˜
+ppython:S1542Ú"RRename function "stopTouchApp" to match the regular expression ^[a-z_][a-z0-9_]*$.(È¶‡Øúÿÿÿÿ

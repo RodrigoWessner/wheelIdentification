@@ -1,0 +1,18 @@
+
+{python:S1170"]Rename this local variable "floorObjects" to match the regular expression ^[_a-z][a-z0-9_]*$.(Íë×Ã8Ú£¢ˆÓ1
+wpython:S1176"YRename this local variable "foundObj" to match the regular expression ^[_a-z][a-z0-9_]*$.(Å‡8Û£¢ˆÓ1
+xpython:S117?"ZRename this local variable "foundObj2" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÔÖ‘Ã8Û£¢ˆÓ1
+|python:S117-"^Rename this local variable "gausssianBlur" to match the regular expression ^[_a-z][a-z0-9_]*$.(‘Á—¦8Û£¢ˆÓ1
+zpython:S117'"]Rename this local variable "interestArea" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÉŞ‰c8Û£¢ˆÓ1
+ƒpython:S117*"`Rename this local variable "interestObjects" to match the regular expression ^[_a-z][a-z0-9_]*$.(£¤šşÿÿÿÿ8Û£¢ˆÓ1
+python:S1179"^Rename this local variable "originalFloor" to match the regular expression ^[_a-z][a-z0-9_]*$.(É¢æ‚úÿÿÿÿ8Û£¢ˆÓ1
+wpython:S1176"YRename this local variable "totalObj" to match the regular expression ^[_a-z][a-z0-9_]*$.(Å‡8Û£¢ˆÓ1
+xpython:S117?"ZRename this local variable "totalObj2" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÔÖ‘Ã8Û£¢ˆÓ1
+=python:S125A"Remove this commented out code.(’­–®8á£¢ˆÓ1
+Bpython:S125N"Remove this commented out code.(Ö²¦Ÿşÿÿÿÿ8â£¢ˆÓ1
+Bpython:S125Q"Remove this commented out code.( œèóûÿÿÿÿ8â£¢ˆÓ1
+tpython:S117g"VRename this parameter "borderSize" to match the regular expression ^[_a-z][a-z0-9_]*$.(Å¨à8â£¢ˆÓ1
+‚python:S117È"cRename this local variable "endTransitionPoint" to match the regular expression ^[_a-z][a-z0-9_]*$.(ª‹–ğ8â£¢ˆÓ1
+ˆpython:S117Ç"dRename this local variable "initTransitionPoint" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÛŞØÿøÿÿÿÿ8â£¢ˆÓ1
+Opython:S1481¾"/Replace unused local variable "width" with "_".(ğÈŒä8â£¢ˆÓ1
+Rpython:S1481Ü"-Remove the unused local variable "container".(Õñ¨ãÿÿÿÿÿ8ã£¢ˆÓ1

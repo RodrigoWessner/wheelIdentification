@@ -1,0 +1,12 @@
+
+kpython:S3776Y"TRefactor this function to reduce its Cognitive Complexity from 20 to the 15 allowed.(ŸÏı8
+mpython:S3776´"TRefactor this function to reduce its Cognitive Complexity from 39 to the 15 allowed.(èÃèˆ
+Vpython:S112">Replace this generic exception class with a more specific one.(äÓÓ—
+Jpython:S1481µ",Replace unused local variable "fn" with "_".(ª˜ñ¸üÿÿÿÿ
+[python:S112´">Replace this generic exception class with a more specific one.(°ŒŒ¬şÿÿÿÿ
+tpython:S117ä"\Rename this local variable "Factory_get" to match the regular expression ^[_a-z][a-z0-9_]*$.(€òè“
+|python:S117å"dRename this local variable "Factory_is_template" to match the regular expression ^[_a-z][a-z0-9_]*$.(º±Ö
+rpython:S3776¬"TRefactor this function to reduce its Cognitive Complexity from 81 to the 15 allowed.(­õºûÿÿÿÿ
+lpython:S3776²"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(Üº°"
+>python:S1481Ò"%Remove the unused local variable "e".(›˜í
+vpython:S5799È"XAdd a "+" operator to make the string concatenation explicit; or did you forget a comma?(ã˜§éùÿÿÿÿ
