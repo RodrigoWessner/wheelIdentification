@@ -10,7 +10,7 @@ class ImageSelection(BoxLayout):
         super(ImageSelection, self).__init__(**kwargs)
         self.orientation = 'vertical'
         self.app_manager = appManager
-        self.folder_path = "C:/Users/rodrigo.wessner/Documents/UNISC/Processamento de imagens/Downloads"
+        self.folder_path = "C:/Users"
         # "C:/Users/rodrigo.wessner/Documents/UNISC/Processamento de imagens/Downloads"
 
         self.label_widget = Label(text="Imagem selecionada: nenhuma imagem foi selecionada")
