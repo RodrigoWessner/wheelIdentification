@@ -1,13 +1,13 @@
 
-{python:S117,"]Rename this local variable "floorObjects" to match the regular expression ^[_a-z][a-z0-9_]*$.(Íë×Ã8”ùİÓ1
-|python:S117)"^Rename this local variable "gausssianBlur" to match the regular expression ^[_a-z][a-z0-9_]*$.(‘Á—¦8•ùİÓ1
-zpython:S117#"]Rename this local variable "interestArea" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÉŞ‰c8•ùİÓ1
-ƒpython:S117&"`Rename this local variable "interestObjects" to match the regular expression ^[_a-z][a-z0-9_]*$.(£¤šşÿÿÿÿ8•ùİÓ1
-python:S1171"^Rename this local variable "originalFloor" to match the regular expression ^[_a-z][a-z0-9_]*$.(É¢æ‚úÿÿÿÿ8•ùİÓ1
-‚python:S1175"dRename this local variable "enphatizatedObjects" to match the regular expression ^[_a-z][a-z0-9_]*$.(åü8áıºÓ1
-wpython:S1176"YRename this local variable "foundObj" to match the regular expression ^[_a-z][a-z0-9_]*$.(ØÃ©Ÿ8•ùİÓ1
-wpython:S1176"YRename this local variable "totalObj" to match the regular expression ^[_a-z][a-z0-9_]*$.(ØÃ©Ÿ8•ùİÓ1
-python:S117x"cRename this local variable "endTransitionPoint" to match the regular expression ^[_a-z][a-z0-9_]*$.(ª‹–ğ8•ùİÓ1
-‡python:S117w"dRename this local variable "initTransitionPoint" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÛŞØÿøÿÿÿÿ8âıºÓ1
-Npython:S1481n"/Replace unused local variable "width" with "_".(ğÈŒä8•ùİÓ1
-Rpython:S1481„"-Remove the unused local variable "container".(Õñ¨ãÿÿÿÿÿ8–ùİÓ1
+{python:S1170"]Rename this local variable "floorObjects" to match the regular expression ^[_a-z][a-z0-9_]*$.(Íë×Ã8êÂ©›Ô1
+|python:S117-"^Rename this local variable "gausssianBlur" to match the regular expression ^[_a-z][a-z0-9_]*$.(‘Á—¦8êÂ©›Ô1
+zpython:S117'"]Rename this local variable "interestArea" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÉŞ‰c8êÂ©›Ô1
+ƒpython:S117*"`Rename this local variable "interestObjects" to match the regular expression ^[_a-z][a-z0-9_]*$.(£¤šşÿÿÿÿ8êÂ©›Ô1
+python:S1175"^Rename this local variable "originalFloor" to match the regular expression ^[_a-z][a-z0-9_]*$.(É¢æ‚úÿÿÿÿ8êÂ©›Ô1
+‚python:S1179"dRename this local variable "enphatizatedObjects" to match the regular expression ^[_a-z][a-z0-9_]*$.(åü8êÂ©›Ô1
+wpython:S117:"YRename this local variable "foundObj" to match the regular expression ^[_a-z][a-z0-9_]*$.(ØÃ©Ÿ8êÂ©›Ô1
+wpython:S117:"YRename this local variable "totalObj" to match the regular expression ^[_a-z][a-z0-9_]*$.(ØÃ©Ÿ8êÂ©›Ô1
+python:S117|"cRename this local variable "endTransitionPoint" to match the regular expression ^[_a-z][a-z0-9_]*$.(ª‹–ğ8êÂ©›Ô1
+‡python:S117{"dRename this local variable "initTransitionPoint" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÛŞØÿøÿÿÿÿ8êÂ©›Ô1
+Npython:S1481r"/Replace unused local variable "width" with "_".(ğÈŒä8êÂ©›Ô1
+Rpython:S1481ˆ"-Remove the unused local variable "container".(Õñ¨ãÿÿÿÿÿ8êÂ©›Ô1

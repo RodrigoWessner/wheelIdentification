@@ -4,7 +4,7 @@ from kivy.graphics.texture import Texture
 from kivy.uix.boxlayout import BoxLayout
 from kivy.uix.image import Image as KivyImage
 from kivy.uix.label import Label
-
+import time
 
 class ImageProcessing(BoxLayout):
     def __init__(self, **kwargs):
@@ -19,7 +19,11 @@ class ImageProcessing(BoxLayout):
 
         image = self.imageRead(selected_file)
 
+        start_time = time.time()
         self.applyFilters(image)
+        end_time = time.time()
+
+        print(f"{end_time - start_time}")
 
     def imageRead(self, selected_file):
         try:
@@ -57,7 +61,7 @@ class ImageProcessing(BoxLayout):
             enphatizatedObjects = self.emphasize_large_objects(image, 20)
             foundObj, totalObj, objs = self.contorns(enphatizatedObjects, 20)
 
-        self.add_image_widget(enphatizatedObjects, "Imagem enfatizada2")
+        self.add_image_widget(enphatizatedObjects, "Imagem enfatizada")
         self.add_image_widget(objs, f"Imagem contornada: Objetos encontrados: {foundObj}")
 
     def emphasize_large_objects(self, image, thresh):
